@@ -1,0 +1,28 @@
+body{
+	padding: 10px;
+	background-color: silver;
+	font-size: 125%;
+}
+h1{
+font-size: 48px;
+color:black;
+
+}
+h2{
+  font-size: 30px;
+  color:black;
+  
+
+}
+p{
+line-height: 2;
+
+
+}
+img{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 1000px;
+
+}
